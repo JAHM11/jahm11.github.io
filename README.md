@@ -5,3 +5,9 @@ Esta página web integra los recursos digitales para investigación que se reune
 - Académicas 
 - Amigables 
 - Robustas
+
+## Curación Digital
+
+1: [DDC][1]
+
+[1]: https://www.dcc.ac.uk  "DDC"
