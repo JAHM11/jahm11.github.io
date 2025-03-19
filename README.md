@@ -11,3 +11,8 @@ Esta página web integra los recursos digitales para investigación que se reune
 1: [DDC][1]
 
 [1]: https://www.dcc.ac.uk  "DDC"
+[1.1]: https://community.libguides.com/?action=1 "LibGuides Community"
+[1.2]: https://voyant-tools.org/ "Voyant Tools"
+[1.3]: https://creativecommons.org/ "Creative Commons"
+[1.4]: https://www.zotero.org/ "Zotero"
+[1.5]: https://zbib.org/ "ZoteroBib"
