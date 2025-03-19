@@ -9,6 +9,11 @@ Esta página web integra los recursos digitales para investigación que se reune
 ## Curación Digital
 
 1: [DDC][1]
+2: [LibGuides Community][1.1]
+3: [Voyant Tools][1.2]
+4: [Creative Commons][1.3]
+5: [Zotero][1.4]
+6: [ZoteroBib][1.5]
 
 [1]: https://www.dcc.ac.uk  "DDC"
 [1.1]: https://community.libguides.com/?action=1 "LibGuides Community"
